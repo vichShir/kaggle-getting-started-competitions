@@ -8,6 +8,7 @@ This repository contains all my Kaggle submissions from the getting started comp
 
 ### 📚 Content
 
+- Digit Recognizer - dez. 2022
 - Titanic - Machine Learning from Disaster - jun. 2022
 
 ### 📖 References
